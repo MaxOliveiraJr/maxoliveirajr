@@ -1,8 +1,4 @@
 ### Hi there 👋
-
-![image](https://user-images.githubusercontent.com/44408774/117066829-9ddbd580-acff-11eb-96ca-92b8d068b636.png)
-
-
 <!--
 **MaxOliveirajr/maxoliveirajr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
