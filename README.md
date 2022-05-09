@@ -1,7 +1,7 @@
 ### Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, Eu sou Max Oliveira.
 
 <hr>
-## My Skills 🛠
+### My Skills 🛠
 
 ### Front-End
 <div>
