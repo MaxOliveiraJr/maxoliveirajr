@@ -19,3 +19,18 @@
 <hr>
 
 ### Back-End
+ 
+ <img align="center" alt="-CSS" height="30" width="40" src="https://www.php.net//images/logos/new-php-logo.svg">
+<img align="center" alt="-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+<img align="center" alt="Firebase" src="https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=firebase" width="98px" height="30px"/>
+
+<br>
+<hr>
+ 
+### Databases
+  
+<img align="center" alt="-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"> 
+<!-- <img align="center" alt="-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"> 
+<img align="center" alt="-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"> -->
+
+
