@@ -1,4 +1,4 @@
-### Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="10px">, Eu sou Max Oliveira.
+### Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="20px">, Eu sou Max Oliveira.
 
 <hr>
 
